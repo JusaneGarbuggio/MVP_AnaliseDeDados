@@ -17,4 +17,4 @@ Objetivo: Identificar padrões em sensores robóticos para prever falhas ("grip_
 
 Análise estatística
 
-    Pré-processamento de dados
+  Pré-processamento de dados
